@@ -7,6 +7,10 @@
         "ja": "CoderDojo高槻について",
         "en": "about CoderDojo Takatsuki"
     },
+    "openstreetmap": {
+        "ja": "データ元のOpenStreetMapについて",
+        "en": "About the data source OpenStreetMap"
+    },
     "data_edit": {
         "ja": "店舗編集",
         "en": "EDIT"
