@@ -1,0 +1,45 @@
+{
+    "icon": {
+        "default": "jp_restaurant.png",
+        "amenity": {
+            "library": "library.svg",
+            "bar": "bar.svg",
+            "cafe": "coffee_shop.png",
+            "drinking_water": "water.svg",
+            "fast_food": "burger_shop.png",
+            "food_court": "burger_shop.png",
+            "ice_cream": "donuts_shop.png",
+            "pub": "bar.svg",
+            "restaurant": "restaurant.png",
+            "vending_machine": "vending.svg"
+        },
+        "shop": {
+            "alcohol": "bar.svg",
+            "bakery": "bakery.png",
+            "beverages": "water.svg",
+            "brewing_supplies": "bar.svg",
+            "butcher": "sushi_restaurant.png",
+            "cheese": "sushi_restaurant.png",
+            "chocolate": "donuts_shop.png",
+            "coffee": "coffee_shop.png",
+            "confectionery": "donuts_shop.png",
+            "convenience": "sushi_restaurant.png",
+            "deli": "jp_restaurant.png",
+            "dairy": "sushi_restaurant.png",
+            "farm": "sushi_restaurant.png",
+            "frozen_food": "deli.svg",
+            "greengrocer": "sushi_restaurant.png",
+            "health_food": "sushi_restaurant.png",
+            "ice_cream": "donuts_shop.png",
+            "pasta": "sushi_restaurant.png",
+            "pastry": "donuts_shop.png",
+            "seafood": "sushi_restaurant.png",
+            "spices": "sushi_restaurant.png",
+            "tea": "coffee_shop.png",
+            "water": "water.svg",
+            "wine": "bar.svg",
+            "kiosk": "sushi_restaurant.png",
+            "supermarket": "sushi_restaurant.png"
+        }
+    }
+}
